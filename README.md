@@ -1,4 +1,4 @@
-# Hi3DGen: High-fidelity 3D Geometry Generation from Images via Normal Bridging
+# This Fork Is Not Maintained, Just added API support as Demo. Hi3DGen: High-fidelity 3D Geometry Generation from Images via Normal Bridging
 
 <div class="is-size-5 publication-authors">
   <span class="author-block"><a href="https://github.com/hugoycj">Chongjie Ye</a><sup>1,2*</sup>,</span>
