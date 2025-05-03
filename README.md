@@ -31,6 +31,9 @@
 Hi3DGen target at generating high-fidelity 3D geometry from images using normal maps as an intermediate representation. The framework addresses limitations in existing methods that struggle to reproduce fine-grained geometric details from 2D inputs.
 
 ## Installation
+
+Win11: Make sure Cuda 12.1 is installed!
+
 Clone the repo:
 ```bash
 git clone --recursive https://github.com/Stable-X/Hi3DGen.git
@@ -46,8 +49,8 @@ conda activate stablex
 Install dependencies:
 ```bash
 # pytorch (select correct CUDA version)
-pip install torch==2.4.0 torchvision==0.19.0 --index-url https://download.pytorch.org/whl/{your-cuda-version}
-pip install spconv-cu{your-cuda-version}==2.3.6 xformers==0.0.27.post2
+pip install torch==2.4.0 torchvision==0.19.0 --index-url https://download.pytorch.org/whl/cu121
+pip install spconv-cu121==2.3.7 xformers==0.0.27.post2
 # other dependencies
 pip install -r requirements.txt
 ```
