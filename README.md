@@ -58,8 +58,10 @@ pip install -r requirements.txt
 ## Local Demo 🤗
 Run by:
 ```bash
-python app.py
+python app_api.py
 ```
+
+Refer to Houdini example code for API calls in Shelf Tools or SOPs.
 
 <!-- License -->
 ## License
