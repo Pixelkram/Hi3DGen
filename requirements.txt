@@ -15,3 +15,7 @@ scipy
 trimesh
 numpy==1.26.4
 scikit-image
+
+# Further Aux Stuff
+opencv-python
+einops
