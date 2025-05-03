@@ -33,8 +33,7 @@ Hi3DGen target at generating high-fidelity 3D geometry from images using normal 
 
 ## Installation
 
-Win11: Make sure Miniconda is installed!
-Win11: Make sure Cuda 12.1 is installed!
+Win11: Make sure Miniconda and Cuda 12.1 are installed!
 
 Clone the repo:
 ```bash
